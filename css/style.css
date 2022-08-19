@@ -1,0 +1,39 @@
+*{
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0%;
+    padding: 0%;
+    background-color: rgb(18, 201, 221);
+}   
+.centrar{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+}
+.marge{
+    height: 500px;
+    background-color: yellow;
+    background-image: url(../images/bb3f6054ea8f856a3041d7c554c7c9bc.png);
+    background-size: 300px;
+    background-repeat: no-repeat;
+    background-position: center;
+    padding: 50px;
+}
+.homero{
+    height: 500px;
+    background-color: greenyellow;
+    background-image: url(../images/5a0c40a65a997e1c2cea116c.png);
+    background-size: 300px;
+    background-repeat: no-repeat;
+    background-position: center;
+    padding: 50px;
+}
+
+h1 {
+    font-family: 'Gloria Hallelujah', cursive;
+font-family: 'Italianno', cursive;
+}
